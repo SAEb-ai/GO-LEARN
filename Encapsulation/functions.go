@@ -1,4 +1,4 @@
-//Go program to implemnt encapsulation using functions
+//Go program to implement encapsulation using functions
 package main
 
 //Importing the Format Package

@@ -1,3 +1,4 @@
+//Go program to print my name
 package main
 
 //Importing the Format Package
@@ -8,3 +9,4 @@ func main() {
 	//Printing MyName
 	fmt.Println("My Name is Md Shahbaz Alam")
 }
+

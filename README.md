@@ -1,1 +1,2 @@
-# Begineer level Code that I wrote when I started learning Go.
+# GO-LEARN
+This repository contains code samples that I wrote while learning GO.
